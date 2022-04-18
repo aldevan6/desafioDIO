@@ -1,2 +1,2 @@
 # Bootcamp Carrefour
-[ ] Projeto 01
+- [x] Projeto 01
